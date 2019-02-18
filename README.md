@@ -63,7 +63,7 @@ The running order for this block's katas is:
 
 ```
 $ git clone <your fork's URL>
-$ cd BE2-katas
+$ cd FEND-katas
 ```
 
 3. Make sure you've navigated into the folder and install all dependecies using `npm install`. You also have access to an npm script to run tests (`npm test`). Try to spend an hour each morning working on a kata. It will give you the edge when you come to do tech tests for your job applications
