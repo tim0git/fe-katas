@@ -4,12 +4,12 @@
 
 Each kata should be completed with full TDD. Every morning you should start a new kata, regardless of the progress you have made on the previous one! You will have a chance to review your progress with your katas in your weekly 1-to-1s.
 
-Instead of Mocha and Chai, this time we are going to be using [Jest](https://jestjs.io/en/).
+Just like in backend, we are going to be using [Jest](https://jestjs.io/en/) rather than Mocha and Chai.
 
 Jest was developed by Facebook and performs the roles of both **test runner** (like mocha) and **assertion library** (like Chai).
 
-First, have a look at the example provided (`./example.js`) and its tests (`./__tests__/example.test.js`).
-As you can see here, there are a few differences:
+Once again, we have provided an example (`./example.js`) and its tests (`./__tests__/example.test.js`).
+As you know, there are a few differences:
 
 - We have used a slightly different file / folder structure for our test files.
 - The test script in our `package.json` reads `jest --watch`.
