@@ -16,7 +16,7 @@ To read more about the Hexadecimal numerical system, see some of the following l
 
 You should complete the `parseHexInt` function **without** recourse to any of the native JavaScript number manipulation functions such as `parseInt`! Research how hex numbers work and how to manually convert between the hexadecimal and decimal systems.
 
-Your function should be case insensitive when it comes to the hexadecimal numbers, as is the native `parseInt`. If your function receives a non-valid hex number.
+Your function should be case insensitive when it comes to the hexadecimal numbers, as is the native `parseInt`.
 
 ### Examples
 
