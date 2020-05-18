@@ -29,15 +29,15 @@ As you know, there are a few differences:
 ## Running Order
 
 The running order for this block's katas is:
-1. subArrSum
-2. romanNumeralEncoder
-3. vowelShift
-4. rgbaModifier
+1. subArrSum xx
+2. romanNumeralEncoder xx
+3. vowelShift xx
+4. rgbaModifier 
 5. findPartner
 6. findMostRepeated
 7. fillSquare
 8. needleInHaystack
-9. binarySearch
+9. binarySearch xx
 10. parseHexInt
 11. simplifyDirections
 12. justifyLine
