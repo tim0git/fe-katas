@@ -32,8 +32,8 @@ The running order for this block's katas is:
 1. subArrSum xx
 2. romanNumeralEncoder xx
 3. vowelShift xx
-4. rgbaModifier 
-5. findPartner
+4. rgbaModifier xx
+5. findPartner xx
 6. findMostRepeated
 7. fillSquare
 8. needleInHaystack
