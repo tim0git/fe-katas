@@ -41,8 +41,7 @@ const haystack = {
 ```
 
 ```javascript
-const needle = 'Sausages'
-needleHaystack(haystack, needle)
+
 // -> []
 ```
 

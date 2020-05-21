@@ -35,7 +35,7 @@ The running order for this block's katas is:
 4. rgbaModifier xx
 5. findPartner xx
 6. findMostRepeated xx
-7. fillSquare 
+7. fillSquare xx
 8. needleInHaystack
 9. binarySearch xx
 10. parseHexInt
