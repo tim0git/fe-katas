@@ -29,6 +29,7 @@ As you know, there are a few differences:
 ## Running Order
 
 The running order for this block's katas is:
+
 1. subArrSum xx
 2. romanNumeralEncoder xx
 3. vowelShift xx
@@ -38,8 +39,8 @@ The running order for this block's katas is:
 7. fillSquare xx
 8. needleInHaystack ?
 9. binarySearch xx
-10. parseHexInt
-11. simplifyDirections
+10. parseHexInt xx
+11. simplifyDirections xx
 12. justifyLine
 13. csvParser
 14. multiplicationTable
