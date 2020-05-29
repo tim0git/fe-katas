@@ -37,12 +37,12 @@ The running order for this block's katas is:
 5. findPartner xx
 6. findMostRepeated xx
 7. fillSquare xx
-8. needleInHaystack ?
+8. needleInHaystack xx refactor> no path for passing tests, pass string on second arg..
 9. binarySearch xx
 10. parseHexInt xx
 11. simplifyDirections xx
-12. justifyLine
-13. csvParser
+12. justifyLine xx refactor> does this work for unhappy path?
+13. csvParser 
 14. multiplicationTable
 15. wrongWayCow
 16. getSubSquare
